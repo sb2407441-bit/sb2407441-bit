@@ -1,16 +1,21 @@
-## Hi there 👋
+# Ahmad Bilal
 
-<!--
-**sb2407441-bit/sb2407441-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ideas, made useful.**
 
-Here are some ideas to get you started:
+I explore how AI and thoughtful software can make everyday work a little more human. This is where I build, experiment, and learn in public.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Selected work
+
+**[JugaDO-B](https://github.com/sb2407441-bit/JugaDO-B)**  
+An AI operations project exploring how people can stay in control of the systems working alongside them.
+
+**[ProofPilot](https://github.com/sb2407441-bit/ProofPilot)**  
+A workspace for researching opportunities, reviewing eligibility, and drafting applications with sources in view.
+
+### What interests me
+
+AI agents · useful automation · digital products · the human side of technology
+
+<sub>Building, learning, and figuring things out as I go.</sub>
